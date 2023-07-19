@@ -1,8 +1,8 @@
 ## Showcase
 
-![pic](https://www.dropbox.com/scl/fi/32563r4gxt0qfhedvs81p/Screenshot-2023-07-19-at-7.37.49-PM.png?rlkey=5f351n7ii3uv0p1ifxl6ibea8&dl=0)
-![pic](https://www.dropbox.com/scl/fi/nll3lse3h0gymk7btky5u/Screenshot-2023-07-19-at-7.37.59-PM.png?rlkey=635788y2gt0tca7p8fac95pnt&dl=0)
-![pic](https://www.dropbox.com/scl/fi/z1elfpz1jno4lnjz4e0vk/Screenshot-2023-07-19-at-7.38.32-PM.png?rlkey=6ly2l5ryvrpfzwx4p5wqugdnj&dl=0)
+![pic](https://www.dropbox.com/scl/fi/32563r4gxt0qfhedvs81p/Screenshot-2023-07-19-at-7.37.49-PM.png)
+![pic](https://www.dropbox.com/scl/fi/nll3lse3h0gymk7btky5u/Screenshot-2023-07-19-at-7.37.59-PM.png)
+![pic](https://www.dropbox.com/scl/fi/z1elfpz1jno4lnjz4e0vk/Screenshot-2023-07-19-at-7.38.32-PM.png)
 
 ### i have created this beautiful login / signup components in React.js (Javascript) using mui (UI library) make sure you give this repo a star it will be much appreciated.
 
