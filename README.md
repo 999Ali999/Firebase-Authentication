@@ -1,8 +1,8 @@
 ## Showcase
 
-[Imgur](./images/signup.png)
-[Imgur](./images/login.png)
-[Imgur](./images/light-mode.png)
+![Imgur](./images/signup.png)
+![Imgur](./images/login.png)
+![Imgur](./images/light-mode.png)
 
 ### i have created this beautiful login / signup components in React.js (Javascript) using mui (UI library) make sure you give this repo a star it will be much appreciated.
 
