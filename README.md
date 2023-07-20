@@ -40,4 +40,10 @@
 
 ##### second go to firebaseConfig.js file and add your firebase configuration
 
+##### then inside go to the firebase create an app and inside the build section add Authentication to your app
+
+##### the inside the Authentication section for the Native providers add the Email/Password and enable it
+
+##### and for the Additional providers add Google and the add a support email for your project and then click save
+
 ##### finally run "npm run dev" and enjoy
