@@ -60,6 +60,7 @@ const Login = () => {
           sx={{ paddingBottom: "15px" }}
           name="password"
           label="Password"
+          type="password"
           variant="outlined"
           fullWidth
           autoComplete="off"
