@@ -1,9 +1,5 @@
 ## Showcase
 
-<video controls>
-  <source src="./images/Screen Recording 2023-07-27 at 7.13.13 PM.mp4" type="video/mp4">
-</video>
-
 ![Imgur](./images/signup.png)
 ![Imgur](./images/login.png)
 ![Imgur](./images/light-mode.png)
