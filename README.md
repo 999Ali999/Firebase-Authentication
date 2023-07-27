@@ -1,6 +1,6 @@
 ## Showcase
 
-![Video of the webapp](https://github.com/999Ali999/login-signup-mui-firebase/assets/127804196/f6bf47a6-3be1-4090-8a86-d6e40edefc11)
+![click here to see the Video](https://github.com/999Ali999/login-signup-mui-firebase/assets/127804196/f6bf47a6-3be1-4090-8a86-d6e40edefc11)
 
 ![Imgur](./images/signup.png)
 ![Imgur](./images/login.png)
