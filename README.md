@@ -6,7 +6,7 @@
 ![Imgur](./images/login.png)
 ![Imgur](./images/light-mode.png)
 
-### i have created this beautiful login / signup components in React.js (Javascript) using mui (UI library) make sure you give this repo a star it will be much appreciated.
+### i have created this beautiful login / signup components in React.js (Javascript) using mui (UI library).
 
 #### Front-end:
 
